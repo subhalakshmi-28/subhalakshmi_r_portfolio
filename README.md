@@ -1,4 +1,3 @@
-# subhalakshmi_r_portfolio
 # 👩‍💻 Subhalakshmi R – Personal Portfolio Website
 
 A modern and responsive personal portfolio website developed using HTML, CSS, and JavaScript to showcase my skills, projects, education, and achievements in web development and technology.
