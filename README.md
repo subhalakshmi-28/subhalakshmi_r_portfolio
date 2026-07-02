@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website developed using HTML, CSS, an
 
 ## 🌐 Live Demo
 
-🔗 https://subhalakshmi-r-portfolio-gyes.vercel.app
+🔗 https://subhalakshmi-28.github.io/subhalakshmi_r_portfolio/
 
 ## 📖 About the Project
 
